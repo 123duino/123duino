@@ -1,0 +1,45 @@
+{
+  "packages": [
+    {
+      "name": "123Duino",
+      "maintainer": "123Duino",
+      "websiteURL": "https://sites.google.com/site/123duino",
+      "email": "123.duino@gmail.com",
+      "help": {
+        "online": "https://sites.google.com/site/123duino"
+      },
+      "platforms": [
+        {
+          "name": "123Duino board",
+          "architecture": "avr",
+          "version": "1.1.0",
+          "category": "atmega",
+          "help": {
+            "online": ""
+          },
+          "url": "https://drive.google.com/open?id=0B5uGD4Otz424R1hsRzNtMW9wOTg",
+          "archiveFileName": "123duino_board.zip",
+          "checksum": "",
+          "size": "34518",
+          "boards": [
+            {"name": "123duino"}
+            ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+        
+      ],
+      "tools": []
+    }
+  ]
+}
