@@ -1,6 +1,6 @@
 # 123Duino Arduino IDE 開發環境安裝 "簡易版" (OS:Window)
 
-<BR>1. 請由以下連結Arduino 官網的連結下在Arduino 開發環境
+<BR>1. 請由以下Arduino 官網連結下載Arduino 開發環境
 https://www.arduino.cc/en/Main/Donate
 
 <BR>2.點選以上網址後,您可選擇您要捐助的金額,或是直接點選"JUST DOWNLOAD"下載
@@ -9,7 +9,7 @@ https://www.arduino.cc/en/Main/Donate
 
 <BR>4.安裝時請依照安裝程式指示即可完成安裝
 
-<BR>5.點選Arduino 開啟Arduino開發環境
+<BR>5.完成後,點選Arduino 開啟Arduino開發環境
 
 <BR>6.在Arduino IDE 功能表：File > Preferences. 複製/貼上以下的超連結到 "Additional Boards Manager URLs"
 https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_index.json
