@@ -53,6 +53,7 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <B>接下來這幾個程式庫無法使用Library Manager 來安裝,須分別下載後自行移動到Arduino Library目錄中</B>
 <BR>3.安裝MPU6050與I2Cdev 程式庫
 <BR> 請到https://github.com/jrowberg/i2cdevlib,整個打包ZIP下載後,解壓再放到Arduino Library目錄中
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/down-lib1.png" width="70%" height="70%">
 <BR> 兩個子目錄I2Cdev與MPU6050,搬到Arduino IDE存放程式庫的地方,也就是"Sketchbook location" XXXX\Arduino\libraries\目錄中.
 
 
