@@ -45,8 +45,10 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <BR> #define SSD1306_128_64
 <BR> // #define SSD1306_128_32
 <BR> // #define SSD1306_96_16
+<BR> PS: Adafruit_SSD1306.h檔案位於"Sketchbook location" XXXX\Arduino\libraries\Adafruit_SSD1306
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/local.png"  width="70%" height="70%">
 
-<hr>
+<hr> 
 <BR>
 <B>接下來這幾個程式庫無法使用Library Manager 來安裝,須分別下載後自行移動到Arduino Library目錄中</B>
 <BR>3. 
