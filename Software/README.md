@@ -55,6 +55,7 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <BR> 請到https://github.com/jrowberg/i2cdevlib,整個打包ZIP下載後,解壓再放到Arduino Library目錄中
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/down-lib1.png" width="70%" height="70%">
 <BR> 兩個子目錄I2Cdev與MPU6050,搬到Arduino IDE存放程式庫的地方,也就是"Sketchbook location" XXXX\Arduino\libraries\目錄中.
+<BR> PS:整個i2cdevlib-master.zip中有非常多檔案,請選擇將Arduino目錄中的I2Cdev與MPU6050這兩個目錄複製到Arduino\libraries中即可
 
-
-
+<BR>
+<BR>同上方式,在https://github.com/jlesech/Eeprom24C128_256下載整個zip,並放到Arduino\libraries中.
