@@ -35,5 +35,6 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <BR>1-2. 在Library Manager 中的filter欄位輸入SHT3,就可找到SHT31.按下install完成安裝
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-2.png"  width="60%" height="60%">
 
-
-
+<BR>2. OLED 程式庫. 同樣使用如以上SHT30程式庫安裝的方式,分別安裝Adafruit_GFX_Library、Adafruit_SSD1306.
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-3.png"  width="60%" height="60%">
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-4.png"  width="60%" height="60%">
