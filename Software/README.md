@@ -19,10 +19,10 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/3_board_url.png"  width="75%" height="75%">
 
 
-<BR>7.再到 Tools > Board >Boards Manager 中看，就可看到123Duino 開發板安裝項目
+<BR>7.再到 Tools > Board >Boards Manager 中看，就可看到123Duino 開發板安裝項目並點選install
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/4_board_manager_install.png"  width="75%" height="75%">
 
-<BR>8.在Boards Manager 中點選123Duino board , 並點選install 即可安裝123Duino 到Arduino IDE中
+<BR>8.完成以上步驟,即可在Tools > Board 中點選123Duino 
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/5_board_123duino.png"  width="60%" height="60%">
 
 <BR>
