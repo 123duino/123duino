@@ -13,30 +13,41 @@
   by Scott Fitzgerald
  */
 
+const int R_LED_Pin= 5;      // the number of the RED LED pin
+const int G_LED_Pin= 10;     // the number of the GREEN LED pin
+const int B_LED_Pin= 11;     // the number of the BLUE LED pin
 
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin 13 as an output.
-  pinMode(11, OUTPUT);
-  pinMode(5, OUTPUT);
-  pinMode(10,OUTPUT);
+  pinMode(R_LED_Pin, OUTPUT);
+  pinMode(G_LED_Pin, OUTPUT);
+  pinMode(B_LED_Pin, OUTPUT);
+  
+  digitalWrite(R_LED_Pin, HIGH);
+  digitalWrite(G_LED_Pin, HIGH);
+  digitalWrite(B_LED_Pin, HIGH);
+ 
 }
 
 // the loop function runs over and over again forever
 void loop() {
-  digitalWrite(11, LOW);    // turn the LED off by making the voltage LOW
-  delay(900);              // wait for a second
- digitalWrite(11, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(200);              // wait for a second
+  
+
+  digitalWrite(R_LED_Pin, LOW);    // turn the LED on by making the voltage LOW
+  delay(500);                      // wait for 500ms
+  digitalWrite(R_LED_Pin, HIGH);   // turn the LED off (HIGH is the voltage level)
+  delay(300);                      // wait for 300ms
+  
+  digitalWrite(G_LED_Pin, LOW);    // turn the LED on by making the voltage LOW
+  delay(500);                      // wait for 500ms
+  digitalWrite(G_LED_Pin,HIGH);    // turn the LED off (HIGH is the voltage level)
+  delay(300);                      // wait for 300ms
  
-  digitalWrite(5, LOW);    // turn the LED off by making the voltage LOW
-  delay(900);              // wait for a second
-digitalWrite(5,HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(200);              // wait for a second
+  digitalWrite(B_LED_Pin, LOW);    // turn the LED on by making the voltage LOW
+  delay(500);                      // wait for 500ms
+  digitalWrite(B_LED_Pin,HIGH);    // turn the LED off (HIGH is the voltage level)
+  delay(300);                      // wait for 300ms
  
-  digitalWrite(10, LOW);    // turn the LED off by making the voltage LOW
-  delay(900);              // wait for a second
-digitalWrite(10, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(200);              // wait for a second
  
 }
