@@ -58,4 +58,9 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <BR> PS:整個i2cdevlib-master.zip中有非常多檔案,請選擇將Arduino目錄中的I2Cdev與MPU6050這兩個目錄複製到Arduino\libraries中即可
 
 <BR>4.下載EEPROM程式庫
-<BR>同上方式,在https://github.com/jlesech/Eeprom24C128_256下載整個zip,並放到Arduino\libraries中.
+<BR>同上方式,在https://github.com/jlesech/Eeprom24C128_256下載整個zip,並將整個Eeprom24C128_256-master目錄放到Arduino\libraries中.
+
+<BR>完成以上所有步驟,您將在Arduino\libraries中看到如下圖的幾個目錄
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/libraries.png" width="70%" height="70%">
+
+<BR>恭喜您.您已經可以完全可以控制整個123duino所有的功能了.
