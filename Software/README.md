@@ -27,3 +27,5 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 
 <HR size=3>
 <h3>123Duino 相關Library安裝</h3>
+<BR>因為123Duino上面有許多的感測器與OLED等周邊.這些周邊都需要額外安裝Library才能正常控制
+<BR>以下幾個步驟分別說明各個Library的安裝方法與注意事項
