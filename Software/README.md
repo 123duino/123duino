@@ -32,3 +32,6 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <BR>1. SHT30 溫度感測器程式庫安裝 (PS:因SHT30與SHT31使用同一個程式庫,所以直接安裝SHT31程式庫即可)
 <BR>1-1. Arduino IDE 中選擇 Sketch > Include Library > Manage Libraries ...
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-1.png"  width="60%" height="60%">
+<BR>1-2. 在Library Manager 中的filter欄位輸入SHT3,就可找到SHT31.按下install完成安裝
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-2.png"  width="60%" height="60%">
+
