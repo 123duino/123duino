@@ -32,11 +32,11 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <BR>
 <BR>1. SHT30 溫度感測器程式庫安裝 (PS:因SHT30與SHT31使用同一個程式庫,所以直接安裝SHT31程式庫即可)
 <BR>1-1. Arduino IDE 中選擇 Sketch > Include Library > Manage Libraries ...
-<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-1.png"  width="60%" height="60%">
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-1.png"  width="70%" height="70%">
 <BR>1-2. 在Library Manager 中的filter欄位輸入SHT3,就可找到SHT31.按下install完成安裝
-<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-2.png"  width="60%" height="60%">
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-2.png" width="70%" height="70%">
 <BR>
 <BR>2. 繪圖與OLED 程式庫. 同樣使用如以上SHT30程式庫安裝的方式,分別安裝Adafruit_GFX_Library、Adafruit_SSD1306.
-<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-3.png"  width="60%" height="60%">
-<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-4.png"  width="60%" height="60%">
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-3.png"  width="70%" height="70%">
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-4.png"  width="70%" height="70%">
 
