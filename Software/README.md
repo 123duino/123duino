@@ -13,7 +13,7 @@ https://www.arduino.cc/en/Main/Donate
 
 <BR>5.完成後,點選Arduino 開啟Arduino開發環境
 
-<BR><b>6.在Arduino IDE 功能表：File > Preferences. 複製/貼上以下的超連結到 "Additional Boards Manager URLs"</b>
+<BR><B>6.在Arduino IDE 功能表：File > Preferences. 複製/貼上以下的超連結到 "Additional Boards Manager URLs" </B>
 https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_index.json
 
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/3_board_url.png"  width="75%" height="75%">
