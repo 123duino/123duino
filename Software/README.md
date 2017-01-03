@@ -1,5 +1,5 @@
 # 123Duino Arduino IDE 開發環境安裝 "簡易版" (OS:Window)
-
+<HR size=3>
 <h3>123Duino Board 安裝</h3>
 <BR>1. 請由以下Arduino 官網連結下載Arduino 開發環境
 https://www.arduino.cc/en/Main/Donate
@@ -25,5 +25,5 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <BR>8.完成以上步驟,即可在Tools > Board 中點選123Duino 
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/5_board_123duino.png"  width="60%" height="60%">
 
-<BR>
+<HR size=3>
 <h3>123Duino 相關Library安裝</h3>
