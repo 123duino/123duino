@@ -41,6 +41,6 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-4.png"  width="70%" height="70%">
 <BR>
 <hr>
-
-
-
+<BR>
+<B>接下來這幾個程式庫無法使用Library Manager 來安裝,須分別下載後自行移動到Arduino Library目錄中</B>
+<BR>3. 
