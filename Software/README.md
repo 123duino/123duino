@@ -5,7 +5,7 @@
 https://www.arduino.cc/en/Main/Donate
 
 <BR>2.點選以上網址後,您可選擇您要捐助的金額,或是直接點選"JUST DOWNLOAD"下載
-<img  src="https://github.com/123duino/123duino/blob/master/Software/img/1_download_ide.png?raw=true">
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/1_download_ide.png?raw=true"  width="70%" height="70%">
 
 <BR>3.下載完成請直接執行安裝檔 如:arduino-1.8.0-windows.exe
 
