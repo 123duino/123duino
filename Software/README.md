@@ -16,6 +16,8 @@ https://www.arduino.cc/en/Main/Donate
 <BR>6.在Arduino IDE 功能表：File > Preferences. 複製/貼上以下的超連結到 "Additional Boards Manager URLs"
 https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_index.json
 
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/3_board_url.png"  width="90%" height="90%">
+
 
 <BR>7.再到 Tools > Board >Boards Manager 中看，就可看到123Duino 開發板安裝項目
 
