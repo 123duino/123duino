@@ -35,3 +35,5 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <BR>1-2. 在Library Manager 中的filter欄位輸入SHT3,就可找到SHT31.按下install完成安裝
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-2.png"  width="60%" height="60%">
 
+
+
