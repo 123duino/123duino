@@ -61,5 +61,7 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <BR>同上方式,在https://github.com/jlesech/Eeprom24C128_256 下載整個zip,並將整個Eeprom24C128_256-master目錄放到Arduino\libraries中.
 
 <BR>完成以上所有步驟,您將在Arduino\libraries中看到如下圖的幾個目錄
-<BR><img src="https://github.com/123duino/123duino/blob/master/Software/img/libraries.png">
+<BR>
+<img src="https://github.com/123duino/123duino/blob/master/Software/img/libraries.png">
+
 <BR>恭喜您.您已經可以完全可以控制整個123duino所有的功能了.
