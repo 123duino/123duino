@@ -37,6 +37,6 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-2.png"  width="60%" height="60%">
 <BR>
 <BR>2. 繪圖與OLED 程式庫. 同樣使用如以上SHT30程式庫安裝的方式,分別安裝Adafruit_GFX_Library、Adafruit_SSD1306.
-<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-3.png"  width="60%" height="60%">
-<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-4.png"  width="60%" height="60%">
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-3.png"  width="60%" height="60%">
+<img  src="https://github.com/123duino/123duino/blob/master/Software/img/lib-4.png"  width="60%" height="60%">
 
