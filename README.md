@@ -5,3 +5,6 @@
 <LI><a href="https://github.com/123duino/123duino/tree/master/Software">Software</a> 目錄中有簡易的安裝教學與範例程式原始檔
 <UL>
 <BR>
+<HR>
+<BR>
+<B><a href="https://github.com/123duino/123duino/blob/master/Software/README.md">123Duino Arduino IDE 開發環境安裝</a>
