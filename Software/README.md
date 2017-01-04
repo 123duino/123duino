@@ -62,6 +62,6 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 
 <BR>完成以上所有步驟,您將在Arduino\libraries中看到如下圖的幾個目錄
 <BR>
-<img src="https://github.com/123duino/123duino/blob/master/Software/img/libraries.png">
+<img src="https://github.com/123duino/123duino/blob/master/Software/img/librariesx.png">
 
 <BR>恭喜您.您已經可以完全可以控制整個123duino所有的功能了.
