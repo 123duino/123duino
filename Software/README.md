@@ -64,4 +64,4 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <BR>
 <img src="https://github.com/123duino/123duino/blob/master/Software/img/librariesx.png">
 
-<BR>恭喜您.您已經可以完全可以控制整個123duino所有的功能了.
+<BR>恭喜您.您已經可以完全控制整個123duino所有的功能了.
