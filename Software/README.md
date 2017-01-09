@@ -26,14 +26,14 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 <img  src="https://github.com/123duino/123duino/blob/master/Software/img/5_board_123duino.png"  width="60%" height="60%">
 
 <BR>
-<font color="red">
+<h3>
 *** 若發現系統無法找到123Duino, USD driver 無法安裝時. 請安照以下方式安裝
 當插上123Duino至電腦USB port，若電腦會無法安裝 Arduino 裝置，這時候，我們要手動安裝驅動程式
 *****按開始 –> 我的電腦 (右鍵) –> 內容/屬性 –> 裝置管理員
 在”其他裝置”裡找出 123Duino，按右鍵，點 ”更新驅動程式”
 然後自行設定驅動程式位置 (Arduino 套件包裡的 drivers 資料夾)
 等待數分鐘，電腦便會完成安裝 Arduino 驅動程式
-</font>
+</h3>
 
 <HR size=3>
 <h3>123Duino 相關Library安裝</h3>
