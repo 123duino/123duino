@@ -36,6 +36,8 @@ https://raw.githubusercontent.com/123duino/123duino/master/package_123duino_inde
 然後自行設定驅動程式位置 到(Arduino 套件包裡的 drivers 資料夾)
 等待數分鐘，電腦便會完成安裝 Arduino 驅動程式
 </h3>
+123Duino Windows driver安裝方式
+https://sites.google.com/site/123duino/install_driver-1
 
 <HR size=3>
 <h3>123Duino 相關Library安裝</h3>
